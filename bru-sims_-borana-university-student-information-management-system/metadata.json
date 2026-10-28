@@ -1,0 +1,6 @@
+{
+  "name": "BRU-SIMS: Borana University Student Information Management System",
+  "description": "Comprehensive student registration, course enrollment, gradebook, academic progression, official transcripts, and role-based administration for Borana University.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
